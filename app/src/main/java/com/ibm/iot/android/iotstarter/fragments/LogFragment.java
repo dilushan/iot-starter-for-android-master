@@ -293,6 +293,7 @@ public class LogFragment extends IoTStarterFragment {
         ((TextView) getActivity().findViewById(R.id.accelX)).setText("x: " + accelData[0]);
         ((TextView) getActivity().findViewById(R.id.accelY)).setText("y: " + accelData[1]);
         ((TextView) getActivity().findViewById(R.id.accelZ)).setText("z: " + accelData[2]);
+
     }
     */
 }
